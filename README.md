@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Maxence, a Ruby on Rails developper who started coding as a hobby, then for an MVP / side projetcs, and I ma not accepting Freelancing or position as a junior Dev.
+I am Maxence, a Ruby on Rails developper who started coding as a hobby, then for an MVP / side projetcs, and I am now accepting Freelancing or position as a junior Dev.
 
 <a href="https://stackoverflow.com/users/957185/maxence"><img src="https://stackoverflow.com/users/flair/957185.png" width="208" height="58" alt="profile for Maxence at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Maxence at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
