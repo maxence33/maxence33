@@ -4,9 +4,9 @@ I am Maxence, a Ruby on Rails developper who started coding as a hobby, then for
 
 Stack: Rails 7, Hotwire_Turbo / Jsbundling with Esbuild
 
-DB: PG, Redis (actually using Redis as an "ephemeral" storage)
-Image / Uploads: Shrine, Vips, Uppy
-Specs: Capybara, Rspec
+- DB: PG, Redis (actually using Redis as an "ephemeral" storage)
+- Image / Uploads: Shrine, Vips, Uppy
+- Specs: Capybara, Rspec
 
 articles : https://medium.com/@maxencemalbois
 
