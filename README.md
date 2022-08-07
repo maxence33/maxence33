@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi
 I am Maxence, a Ruby on Rails developper who started coding as a hobby, then for an MVP / side projects, and I am now accepting Freelancing or position as a junior Dev.
 
 Stack: Rails 7, Hotwire_Turbo / Jsbundling with Esbuild
